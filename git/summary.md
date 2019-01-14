@@ -142,7 +142,7 @@ git pull <远程主机> <远程分支>:<本地分支>
 git pull origin master:master
 ```
 
-## 六、版本回滚
+## 五、版本回滚
 
 ### 首先得知道看下提交历史
 
@@ -170,14 +170,14 @@ Author: “ccc <1009078602@qq.com>
 Date:   Sat Jan 12 16:27:38 2019 +0800
 ```
 
-### 接着选一个版本进行回滚
+### 接着,选一个版本进行回滚
 
 ```
 git reset --hard f2991c90cf60701280f4fa2b1722a8310d99cd2b
 ```
 
 
-### 七、克隆
+### 六、克隆
 
 从远程主机`<origin>`克隆一个版本库
 
@@ -190,5 +190,3 @@ git reset --hard f2991c90cf60701280f4fa2b1722a8310d99cd2b
 `git clone git@github.com:guestccc/git-study.git`
 
 其他的，就不介绍了
-
-### 八、常用
