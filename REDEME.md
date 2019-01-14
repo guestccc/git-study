@@ -1,33 +1,14 @@
-## GIT 心得
+# GIT心得
 
-Here are some common instructions for **Git** at work
+xxxx
 
-
-#### 前置知识
-
-> * clone---克隆
-> * init---初始化
-> * add---添加
-> * commit---提交
-> * push---推送
-> * fetch---取
-> * merge--合并
-> * pull---拉（并合并）
-> * checkout---签出
-> * branch---分支
-> * remote---远程
+## 一、入门
 
 
-一、创建一个仓库
 
-`git init`
 
-good
 
-good
 
-good
+## [总结篇](git/summary.md)
 
-bad
-
-bad
+新建库--建立连接--提交代码--拉取更新--版本回退
