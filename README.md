@@ -6,7 +6,7 @@
 
 但是有时候遇到一些不常遇到的问题，总会有点头痛，所以写下总结
 
-## 一、 git branch (分支相关)
+## 一、 [git branch (分支相关)](git/branch.md)
 
 ## 二、 git status (查看状态)
 
